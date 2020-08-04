@@ -1,4 +1,4 @@
-# List-View-Sederhana-2
+# List-View-Android-Sederhana-2
 
 [Petunjuk Penggunaan]
 
